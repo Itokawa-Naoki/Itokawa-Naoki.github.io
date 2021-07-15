@@ -27,6 +27,10 @@ Skills
   * bash
   * R
 
+Awards
+======
+International Society for Experimental Hematology Travel Award 2019
+
 Publications
 ======
   <ul>{% for post in site.publications %}
