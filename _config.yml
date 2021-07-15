@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Itokawa Naoki<br>(糸川直樹)"
   avatar           : "profile.png"
-  bio              : "Post doctoral fellow at the Institute of Medical Science, The University of Tokyo"
+  bio              : "Post doctoral fellow at the  <a style='color: black;' href='https://www.ims.u-tokyo.ac.jp/imsut/en/index.html'>Institute of Medical Science</a>, The University of Tokyo<br> MD-PhD"
   location         : "Shirokanedai,Tokyo"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Itokawa+Naoki"
