@@ -8,8 +8,8 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Itokawa Naoki"
-title_separator          : ""
-name                     : &name ""
+title_separator          : "-"
+name                     : &name "Itokawa Naoki"
 description              : &description "糸川直樹"
 url                      : https://itokawa-naoki.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
