@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Itokawa Naoki<br>(糸川直樹)"
-  avatar           : "IMG_0522.JPG"
+  avatar           : "profile.png"    # "IMG_0522.JPG"
   bio              : "Post doctoral fellow at the  <a style='color: black;' href='https://www.ims.u-tokyo.ac.jp/imsut/en/index.html'>Institute of Medical Science</a>, The University of Tokyo<br> MD-PhD"
   location         : "Shirokanedai,Tokyo"
   employer         :
