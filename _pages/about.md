@@ -24,7 +24,7 @@ Education
 Work experience
 ======
 * Medical intern at National Hospital Organization Disaster Medical Center(May 2015 to March 2017)
-* Post doctoral fellow at the Institute of Medical Science, The University of Tokyo(May 2021 to present)
+* Post doctoral fellow at the Institute of Medical Science, The University of Tokyo at Iwama lab(May 2021 to present)
   
 Skills
 ======
